@@ -45,7 +45,7 @@
 </script>
 
 <svelte:head>
-	<title>{course.title} — LearnHub</title>
+	<title>{course.title} — S&L IT Services</title>
 	<meta name="description" content={course.shortDescription} />
 </svelte:head>
 

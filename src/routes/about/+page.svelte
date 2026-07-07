@@ -1,6 +1,6 @@
 <svelte:head>
-	<title>About Us — LearnHub</title>
-	<meta name="description" content="Learn about LearnHub's mission to democratize education and the team behind the platform." />
+	<title>About Us — S&L IT Services</title>
+	<meta name="description" content="Learn about S&L IT Services' mission to democratize education and the team behind the platform." />
 </svelte:head>
 
 <!-- ─── Hero ──────────────────────────────────────────────────────────────── -->
@@ -9,7 +9,7 @@
 		<span class="eyebrow">Our story</span>
 		<h1>Education should be a<br /><span class="gradient-text">right, not a privilege</span></h1>
 		<p class="about-hero__sub">
-			LearnHub was founded with one belief: that world-class education should be accessible to
+			S&L IT Services was founded with one belief: that world-class education should be accessible to
 			anyone, anywhere — regardless of their background, location, or income. Since 2019, we've
 			been building a platform that puts learners first.
 		</p>
@@ -59,7 +59,7 @@
 			<span class="eyebrow">Our story</span>
 			<h2>From a classroom idea to a global platform</h2>
 			<p>
-				LearnHub started in 2019 when three former educators — frustrated by the high cost and
+				S&L IT Services started in 2019 when three former educators — frustrated by the high cost and
 				rigid schedule of traditional education — decided to build something different. Armed with
 				laptops and a shared conviction, they launched with just 12 courses.
 			</p>
@@ -70,7 +70,7 @@
 				verified certificates.
 			</p>
 			<p>
-				Today, LearnHub hosts 200+ courses across technology, design, business, and the creative
+				Today, S&L IT Services hosts 200+ courses across technology, design, business, and the creative
 				arts. Our community spans 40+ countries and our learners have gone on to land roles at
 				some of the world's most respected organisations.
 			</p>
@@ -108,7 +108,7 @@
 <!-- ─── Team ──────────────────────────────────────────────────────────────── -->
 <section class="section section--alt">
 	<div class="container">
-		<span class="eyebrow text-center" style="display:block">The people behind LearnHub</span>
+		<span class="eyebrow text-center" style="display:block">The people behind S&L IT Services</span>
 		<h2 class="section-title text-center">Meet the team</h2>
 		<div class="team-grid">
 			{#each team as member}
@@ -125,10 +125,10 @@
 	</div>
 </section>
 
-<!-- ─── Why LearnHub ──────────────────────────────────────────────────────── -->
+<!-- ─── Why S&L IT Services ──────────────────────────────────────────────────────── -->
 <section class="section">
 	<div class="container">
-		<h2 class="section-title text-center">Why learners choose LearnHub</h2>
+		<h2 class="section-title text-center">Why learners choose S&L IT Services</h2>
 		<div class="features-grid">
 			{#each features as f}
 				<div class="feature">
@@ -159,7 +159,7 @@
 <section class="about-cta">
 	<div class="container about-cta__inner">
 		<h2>Ready to start learning?</h2>
-		<p>Join 50,000+ learners already building their future on LearnHub.</p>
+		<p>Join 50,000+ learners already building their future on S&L IT Services.</p>
 		<div class="about-cta__actions">
 			<a href="/auth/signup" class="btn btn--white">Create free account</a>
 			<a href="/courses" class="btn btn--outline-white">Browse courses</a>

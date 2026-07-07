@@ -27,13 +27,13 @@
 	}
 </script>
 
-<svelte:head><title>Sign In — LearnHub</title></svelte:head>
+<svelte:head><title>Sign In — S&L IT Services</title></svelte:head>
 
 <div class="auth-page">
 	<div class="auth-card">
 		<a href="/" class="auth-logo">
 			<svg width="32" height="32" viewBox="0 0 28 28" fill="none" aria-hidden="true"><rect width="28" height="28" rx="8" fill="var(--color-primary)"/><path d="M7 9h14M7 14h9M7 19h11" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/></svg>
-			LearnHub
+			S&L IT Services
 		</a>
 
 		<h1>Welcome back</h1>

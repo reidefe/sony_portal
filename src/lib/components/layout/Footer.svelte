@@ -10,7 +10,7 @@
 					<rect width="28" height="28" rx="8" fill="var(--color-primary)" />
 					<path d="M7 9h14M7 14h9M7 19h11" stroke="#fff" stroke-width="2.5" stroke-linecap="round" />
 				</svg>
-				LearnHub
+				S&L IT Services
 			</a>
 			<p>Unlock your potential with world-class courses from expert instructors.</p>
 		</div>
@@ -38,7 +38,7 @@
 		</div>
 	</div>
 	<div class="footer__bottom container">
-		<p>&copy; {year} LearnHub. All rights reserved.</p>
+		<p>&copy; {year} S&L IT Services. All rights reserved.</p>
 	</div>
 </footer>
 

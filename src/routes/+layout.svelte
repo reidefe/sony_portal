@@ -11,7 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>LearnHub — Online Learning Platform</title>
+	<title>S&L IT Services — Online Learning Platform</title>
 	<meta name="description" content="Unlock your potential with expert-led courses in tech, design, business, and more." />
 </svelte:head>
 

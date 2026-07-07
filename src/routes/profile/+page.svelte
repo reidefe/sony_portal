@@ -70,7 +70,7 @@
 	}
 </script>
 
-<svelte:head><title>Profile — LearnHub</title></svelte:head>
+<svelte:head><title>Profile — S&L IT Services</title></svelte:head>
 
 {#if !profile}
 	<div class="loading-page"><div class="spinner" /></div>

@@ -8,7 +8,7 @@ function getResend(): Resend {
 	return resend;
 }
 
-const FROM = env.RESEND_FROM ?? 'LearnHub <no-reply@learnhub.com>';
+const FROM = env.RESEND_FROM ?? 'S&L IT Services <no-reply@slitservices.com>';
 
 export async function sendContactEmail(data: {
 	name: string;
@@ -16,7 +16,7 @@ export async function sendContactEmail(data: {
 	subject: string;
 	message: string;
 }) {
-	const to = env.CONTACT_TO_EMAIL ?? 'contact@learnhub.com';
+	const to = env.CONTACT_TO_EMAIL ?? 'contact@slitservices.com';
 	return getResend().emails.send({
 		from: FROM,
 		to: [to],
@@ -40,7 +40,7 @@ export async function sendSupportEmail(data: {
 	category: string;
 	message: string;
 }) {
-	const to = env.SUPPORT_TO_EMAIL ?? env.CONTACT_TO_EMAIL ?? 'support@learnhub.com';
+	const to = env.SUPPORT_TO_EMAIL ?? env.CONTACT_TO_EMAIL ?? 'support@slitservices.com';
 	return getResend().emails.send({
 		from: FROM,
 		to: [to],

@@ -1,6 +1,6 @@
 <svelte:head>
-	<title>Terms of Service — LearnHub</title>
-	<meta name="description" content="LearnHub's terms of service — the rules that govern your use of the platform." />
+	<title>Terms of Service — S&L IT Services</title>
+	<meta name="description" content="S&L IT Services' terms of service — the rules that govern your use of the platform." />
 </svelte:head>
 
 <section class="page-hero">
@@ -25,8 +25,8 @@
 		<article class="doc-body">
 			<div class="doc-intro">
 				<p>
-					Please read these Terms of Service ("Terms") carefully before using the LearnHub
-					website and learning platform operated by LearnHub, Inc. ("LearnHub", "we", "us",
+					Please read these Terms of Service ("Terms") carefully before using the S&L IT Services
+					website and learning platform operated by S&L IT Services, Inc. ("S&L IT Services", "we", "us",
 					or "our").
 				</p>
 				<p>
@@ -53,7 +53,7 @@
 				<p>You must register for an account to access most features of the Service. You agree to provide accurate, current, and complete information during registration and to update that information as necessary.</p>
 
 				<h3>2.2 Account security</h3>
-				<p>You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account. You must notify us immediately at <a href="mailto:security@learnhub.com">security@learnhub.com</a> of any unauthorised use of your account. We are not liable for losses resulting from unauthorised account access where you have failed to maintain the security of your credentials.</p>
+				<p>You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account. You must notify us immediately at <a href="mailto:security@slitservices.com">security@slitservices.com</a> of any unauthorised use of your account. We are not liable for losses resulting from unauthorised account access where you have failed to maintain the security of your credentials.</p>
 
 				<h3>2.3 One account per person</h3>
 				<p>Each account is for the individual named during registration. You may not share your account with others, transfer your account, or create multiple accounts to circumvent restrictions. Corporate or team plans are available separately.</p>
@@ -65,13 +65,13 @@
 				<p>Upon successful enrolment (and payment where applicable), you are granted a limited, non-exclusive, non-transferable, revocable licence to access and view the course content for personal, non-commercial, educational purposes.</p>
 
 				<h3>3.2 Lifetime access</h3>
-				<p>Courses you have purchased remain accessible to you for the lifetime of the course on the platform. LearnHub reserves the right to retire courses after providing at least 30 days' notice. In the event of course retirement, enrolled users will receive a pro-rated refund for any unused access period.</p>
+				<p>Courses you have purchased remain accessible to you for the lifetime of the course on the platform. S&L IT Services reserves the right to retire courses after providing at least 30 days' notice. In the event of course retirement, enrolled users will receive a pro-rated refund for any unused access period.</p>
 
 				<h3>3.3 Lesson progression</h3>
 				<p>Lessons unlock sequentially. You must complete each lesson before the next becomes available. This is by design to ensure optimal learning outcomes.</p>
 
 				<h3>3.4 Free courses</h3>
-				<p>Free courses are provided at LearnHub's sole discretion. We reserve the right to convert a free course to a paid course with reasonable notice to existing free enrolees.</p>
+				<p>Free courses are provided at S&L IT Services' sole discretion. We reserve the right to convert a free course to a paid course with reasonable notice to existing free enrolees.</p>
 			</section>
 
 			<section class="doc-section" id="payments-refunds">
@@ -80,29 +80,29 @@
 				<p>Prices for courses are displayed in US Dollars unless otherwise stated. Prices are subject to change, but the price at the time of your purchase will be honoured for that enrolment.</p>
 
 				<h3>4.2 Payment processing</h3>
-				<p>All payments are processed securely by Stripe, Inc. By making a purchase, you also agree to Stripe's terms of service. LearnHub does not store your raw payment card details.</p>
+				<p>All payments are processed securely by Stripe, Inc. By making a purchase, you also agree to Stripe's terms of service. S&L IT Services does not store your raw payment card details.</p>
 
 				<h3>4.3 Refund policy</h3>
-				<p>We offer a <strong>30-day money-back guarantee</strong> on all paid course enrolments. To request a refund, contact <a href="mailto:billing@learnhub.com">billing@learnhub.com</a> within 30 days of your purchase. Refunds are processed to the original payment method within 5–10 business days.</p>
+				<p>We offer a <strong>30-day money-back guarantee</strong> on all paid course enrolments. To request a refund, contact <a href="mailto:billing@slitservices.com">billing@slitservices.com</a> within 30 days of your purchase. Refunds are processed to the original payment method within 5–10 business days.</p>
 				<p>Refunds will not be issued after 30 days from the purchase date, or where we reasonably believe the policy is being abused.</p>
 
 				<h3>4.4 Taxes</h3>
-				<p>You are responsible for any applicable taxes arising from your use of the Service. Where required by law, LearnHub will collect and remit applicable taxes on your behalf.</p>
+				<p>You are responsible for any applicable taxes arising from your use of the Service. Where required by law, S&L IT Services will collect and remit applicable taxes on your behalf.</p>
 			</section>
 
 			<section class="doc-section" id="intellectual-property">
 				<h2>5. Intellectual property</h2>
-				<h3>5.1 LearnHub content</h3>
-				<p>All content on the Service — including but not limited to course videos, text, graphics, logos, images, and software — is the property of LearnHub or its content suppliers and is protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, modify, create derivative works of, publicly display, or commercially exploit any content without our express written permission.</p>
+				<h3>5.1 S&L IT Services content</h3>
+				<p>All content on the Service — including but not limited to course videos, text, graphics, logos, images, and software — is the property of S&L IT Services or its content suppliers and is protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, modify, create derivative works of, publicly display, or commercially exploit any content without our express written permission.</p>
 
 				<h3>5.2 Instructor content</h3>
-				<p>Instructors retain ownership of the content they create and upload to LearnHub. By publishing content on the platform, instructors grant LearnHub a worldwide, royalty-free licence to host, display, distribute, and deliver that content to enrolled learners.</p>
+				<p>Instructors retain ownership of the content they create and upload to S&L IT Services. By publishing content on the platform, instructors grant S&L IT Services a worldwide, royalty-free licence to host, display, distribute, and deliver that content to enrolled learners.</p>
 
 				<h3>5.3 User submissions</h3>
-				<p>By submitting content to the Service (e.g., forum posts, reviews, project submissions), you grant LearnHub a non-exclusive, royalty-free licence to use, display, and distribute that content in connection with the Service. You represent that you own or have the right to submit such content and that it does not infringe any third-party rights.</p>
+				<p>By submitting content to the Service (e.g., forum posts, reviews, project submissions), you grant S&L IT Services a non-exclusive, royalty-free licence to use, display, and distribute that content in connection with the Service. You represent that you own or have the right to submit such content and that it does not infringe any third-party rights.</p>
 
 				<h3>5.4 Certificates</h3>
-				<p>Certificates of completion issued by LearnHub may be shared publicly (e.g., on LinkedIn). However, you may not represent that a LearnHub certificate constitutes a professional licence or accreditation unless we expressly state otherwise.</p>
+				<p>Certificates of completion issued by S&L IT Services may be shared publicly (e.g., on LinkedIn). However, you may not represent that a S&L IT Services certificate constitutes a professional licence or accreditation unless we expressly state otherwise.</p>
 			</section>
 
 			<section class="doc-section" id="prohibited-conduct">
@@ -116,7 +116,7 @@
 					<li>Use automated tools (bots, scrapers, crawlers) to access or extract content from the Service;</li>
 					<li>Impersonate any person or entity, or falsely represent your affiliation;</li>
 					<li>Submit false or misleading reviews or ratings;</li>
-					<li>Harass, abuse, or harm other users, instructors, or LearnHub staff;</li>
+					<li>Harass, abuse, or harm other users, instructors, or S&L IT Services staff;</li>
 					<li>Upload or transmit viruses, malware, or other harmful code;</li>
 					<li>Interfere with or disrupt the integrity or performance of the Service;</li>
 					<li>Attempt to gain unauthorised access to any part of the Service or its related systems.</li>
@@ -132,7 +132,7 @@
 					<li>The content does not infringe any intellectual property rights, privacy rights, or other rights of any third party;</li>
 					<li>The content does not contain defamatory, obscene, or otherwise illegal material.</li>
 				</ul>
-				<p>LearnHub reserves the right to remove any User Content that violates these Terms or that we, in our sole discretion, consider objectionable — without prior notice.</p>
+				<p>S&L IT Services reserves the right to remove any User Content that violates these Terms or that we, in our sole discretion, consider objectionable — without prior notice.</p>
 			</section>
 
 			<section class="doc-section" id="termination">
@@ -140,14 +140,14 @@
 				<h3>8.1 By you</h3>
 				<p>You may close your account at any time from Profile → Account Settings → Delete Account. Upon deletion, your access to purchased content will cease. Refunds are governed by Section 4.3.</p>
 
-				<h3>8.2 By LearnHub</h3>
+				<h3>8.2 By S&L IT Services</h3>
 				<p>We may suspend or terminate your account at our discretion if we believe you have violated these Terms, for security reasons, or as required by law. We will provide reasonable notice except where immediate termination is necessary to prevent harm. If we terminate your account for reasons other than a Terms violation, we will offer a pro-rated refund for unused paid enrolments.</p>
 			</section>
 
 			<section class="doc-section" id="disclaimer">
 				<h2>9. Disclaimer of warranties</h2>
 				<p>The Service is provided on an <strong>"as is"</strong> and <strong>"as available"</strong> basis without warranties of any kind, whether express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement.</p>
-				<p>LearnHub does not warrant that:</p>
+				<p>S&L IT Services does not warrant that:</p>
 				<ul>
 					<li>The Service will be uninterrupted, error-free, or secure at all times;</li>
 					<li>The results obtained from using the Service will be accurate or reliable;</li>
@@ -158,26 +158,26 @@
 
 			<section class="doc-section" id="liability">
 				<h2>10. Limitation of liability</h2>
-				<p>To the maximum extent permitted by applicable law, LearnHub, its officers, directors, employees, agents, and licensors shall not be liable for:</p>
+				<p>To the maximum extent permitted by applicable law, S&L IT Services, its officers, directors, employees, agents, and licensors shall not be liable for:</p>
 				<ul>
 					<li>Any indirect, incidental, special, consequential, or punitive damages;</li>
 					<li>Loss of profits, revenue, data, or business opportunities;</li>
 					<li>Damages arising from your use of (or inability to use) the Service;</li>
 					<li>Unauthorised access to or alteration of your data.</li>
 				</ul>
-				<p>In any event, LearnHub's total aggregate liability to you shall not exceed the greater of (a) the total amount you paid to LearnHub in the 12 months preceding the claim, or (b) US $100.</p>
+				<p>In any event, S&L IT Services' total aggregate liability to you shall not exceed the greater of (a) the total amount you paid to S&L IT Services in the 12 months preceding the claim, or (b) US $100.</p>
 				<p>Some jurisdictions do not allow the exclusion of certain warranties or limitation of liability, so some of the above limitations may not apply to you.</p>
 			</section>
 
 			<section class="doc-section" id="indemnification">
 				<h2>11. Indemnification</h2>
-				<p>You agree to defend, indemnify, and hold harmless LearnHub and its affiliates, officers, agents, and employees from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in any way connected with your access to or use of the Service, your User Content, or your violation of these Terms.</p>
+				<p>You agree to defend, indemnify, and hold harmless S&L IT Services and its affiliates, officers, agents, and employees from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in any way connected with your access to or use of the Service, your User Content, or your violation of these Terms.</p>
 			</section>
 
 			<section class="doc-section" id="governing-law">
 				<h2>12. Governing law and dispute resolution</h2>
 				<p>These Terms shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law provisions.</p>
-				<p><strong>Informal resolution:</strong> before filing a formal dispute, we encourage you to contact us at <a href="mailto:legal@learnhub.com">legal@learnhub.com</a> to try to resolve the issue informally.</p>
+				<p><strong>Informal resolution:</strong> before filing a formal dispute, we encourage you to contact us at <a href="mailto:legal@slitservices.com">legal@slitservices.com</a> to try to resolve the issue informally.</p>
 				<p><strong>Arbitration:</strong> any dispute arising under these Terms that cannot be resolved informally shall be resolved by binding arbitration administered by JAMS in San Francisco, California, on an individual basis. You waive any right to participate in a class action lawsuit or class-wide arbitration.</p>
 				<p><strong>EEA/UK users:</strong> nothing in these Terms limits your right to bring a complaint before a competent supervisory authority or court in your country of residence.</p>
 			</section>
@@ -190,11 +190,11 @@
 			<section class="doc-section" id="general">
 				<h2>14. General provisions</h2>
 				<ul>
-					<li><strong>Entire agreement:</strong> these Terms, together with our Privacy Policy, constitute the entire agreement between you and LearnHub regarding the Service.</li>
+					<li><strong>Entire agreement:</strong> these Terms, together with our Privacy Policy, constitute the entire agreement between you and S&L IT Services regarding the Service.</li>
 					<li><strong>Severability:</strong> if any provision of these Terms is held invalid, the remaining provisions continue in full force and effect.</li>
 					<li><strong>Waiver:</strong> failure to enforce any right under these Terms does not constitute a waiver of that right.</li>
 					<li><strong>Assignment:</strong> you may not assign these Terms without our written consent. We may assign our rights and obligations without restriction.</li>
-					<li><strong>Force majeure:</strong> LearnHub shall not be liable for any failure or delay due to causes beyond its reasonable control.</li>
+					<li><strong>Force majeure:</strong> S&L IT Services shall not be liable for any failure or delay due to causes beyond its reasonable control.</li>
 				</ul>
 			</section>
 
@@ -202,11 +202,11 @@
 				<h2>15. Contact</h2>
 				<p>For questions or concerns about these Terms, please contact us:</p>
 				<div class="contact-block">
-					<p><strong>LearnHub, Inc. — Legal Team</strong><br />
+					<p><strong>S&L IT Services, Inc. — Legal Team</strong><br />
 					100 Market Street, Suite 400<br />
 					San Francisco, CA 94105<br />
 					United States</p>
-					<p>Email: <a href="mailto:legal@learnhub.com">legal@learnhub.com</a></p>
+					<p>Email: <a href="mailto:legal@slitservices.com">legal@slitservices.com</a></p>
 				</div>
 			</section>
 		</article>

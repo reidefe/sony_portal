@@ -37,7 +37,7 @@
 	});
 </script>
 
-<svelte:head><title>Dashboard — LearnHub</title></svelte:head>
+<svelte:head><title>Dashboard — S&L IT Services</title></svelte:head>
 
 {#if loading}
 	<div class="loading-page"><div class="spinner" /></div>

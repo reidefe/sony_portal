@@ -1,6 +1,6 @@
 <svelte:head>
-	<title>Privacy Policy — LearnHub</title>
-	<meta name="description" content="LearnHub's privacy policy — how we collect, use, and protect your personal information." />
+	<title>Privacy Policy — S&L IT Services</title>
+	<meta name="description" content="S&L IT Services' privacy policy — how we collect, use, and protect your personal information." />
 </svelte:head>
 
 <section class="page-hero">
@@ -27,7 +27,7 @@
 		<article class="doc-body">
 			<div class="doc-intro">
 				<p>
-					LearnHub ("we", "us", or "our") is committed to protecting your privacy. This Privacy
+					S&L IT Services ("we", "us", or "our") is committed to protecting your privacy. This Privacy
 					Policy explains how we collect, use, disclose, and safeguard your information when you
 					use our website and learning platform (collectively, the "Service"). Please read this
 					policy carefully. By using our Service you agree to the practices described here.
@@ -90,7 +90,7 @@
 				<ul>
 					<li><strong>Service providers:</strong> third-party companies that help us operate the Service (e.g., cloud hosting, payment processing, email delivery, analytics). These providers process data only on our behalf under data processing agreements.</li>
 					<li><strong>Instructors:</strong> when you enrol in a course, the instructor receives your display name and enrolment date — not your payment information or email address — unless you choose to contact them directly.</li>
-					<li><strong>Business transfers:</strong> if LearnHub is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction. We will notify you before your data is subject to a different privacy policy.</li>
+					<li><strong>Business transfers:</strong> if S&L IT Services is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction. We will notify you before your data is subject to a different privacy policy.</li>
 					<li><strong>Legal requirements:</strong> we may disclose your information if required by law or in response to a valid legal process.</li>
 				</ul>
 			</section>
@@ -130,7 +130,7 @@
 					<li>Access controls limiting employee access to personal data on a need-to-know basis;</li>
 					<li>Regular security audits and penetration testing.</li>
 				</ul>
-				<p>No method of transmission over the internet is 100% secure. While we strive to protect your data, we cannot guarantee absolute security. If you believe your account has been compromised, please contact us immediately at <a href="mailto:security@learnhub.com">security@learnhub.com</a>.</p>
+				<p>No method of transmission over the internet is 100% secure. While we strive to protect your data, we cannot guarantee absolute security. If you believe your account has been compromised, please contact us immediately at <a href="mailto:security@slitservices.com">security@slitservices.com</a>.</p>
 			</section>
 
 			<!-- 7 -->
@@ -167,20 +167,20 @@
 
 				<p><strong>California residents (CCPA):</strong> you have the right to know what personal information is collected, shared, or sold; the right to opt out of the sale of personal information (we do not sell personal information); and the right to non-discrimination for exercising your rights.</p>
 
-				<p>To exercise any of these rights, contact us at <a href="mailto:privacy@learnhub.com">privacy@learnhub.com</a>. We will respond within 30 days (GDPR) or 45 days (CCPA). We may need to verify your identity before fulfilling your request.</p>
+				<p>To exercise any of these rights, contact us at <a href="mailto:privacy@slitservices.com">privacy@slitservices.com</a>. We will respond within 30 days (GDPR) or 45 days (CCPA). We may need to verify your identity before fulfilling your request.</p>
 			</section>
 
 			<!-- 8 -->
 			<section class="doc-section" id="international-transfers">
 				<h2>8. International data transfers</h2>
-				<p>LearnHub is based in the United States. If you are accessing the Service from outside the US, your data may be transferred to and processed in the US or other countries that may have different data protection laws than your country of residence.</p>
+				<p>S&L IT Services is based in the United States. If you are accessing the Service from outside the US, your data may be transferred to and processed in the US or other countries that may have different data protection laws than your country of residence.</p>
 				<p>For transfers from the EEA/UK to third countries, we rely on Standard Contractual Clauses (SCCs) approved by the European Commission, or other appropriate safeguards, to ensure your data is protected to an adequate standard.</p>
 			</section>
 
 			<!-- 9 -->
 			<section class="doc-section" id="childrens-privacy">
 				<h2>9. Children's privacy</h2>
-				<p>Our Service is not directed at children under 13 years of age (or under 16 in the EEA/UK). We do not knowingly collect personal information from children. If we learn that we have inadvertently collected personal data from a child, we will delete it promptly. If you believe a child has provided us with personal data, please contact us at <a href="mailto:privacy@learnhub.com">privacy@learnhub.com</a>.</p>
+				<p>Our Service is not directed at children under 13 years of age (or under 16 in the EEA/UK). We do not knowingly collect personal information from children. If we learn that we have inadvertently collected personal data from a child, we will delete it promptly. If you believe a child has provided us with personal data, please contact us at <a href="mailto:privacy@slitservices.com">privacy@slitservices.com</a>.</p>
 			</section>
 
 			<!-- 10 -->
@@ -200,11 +200,11 @@
 				<h2>12. Contact us</h2>
 				<p>If you have questions, concerns, or requests related to this Privacy Policy or the processing of your personal data, please contact our Data Protection Officer:</p>
 				<div class="contact-block">
-					<p><strong>LearnHub, Inc.</strong><br />
+					<p><strong>S&L IT Services, Inc.</strong><br />
 					100 Market Street, Suite 400<br />
 					San Francisco, CA 94105<br />
 					United States</p>
-					<p>Email: <a href="mailto:privacy@learnhub.com">privacy@learnhub.com</a></p>
+					<p>Email: <a href="mailto:privacy@slitservices.com">privacy@slitservices.com</a></p>
 					<p>You also have the right to lodge a complaint with your local data protection supervisory authority if you believe we have not handled your personal data in accordance with applicable law.</p>
 				</div>
 			</section>

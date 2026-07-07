@@ -37,7 +37,7 @@
 </script>
 
 <svelte:head>
-	<title>All Courses — LearnHub</title>
+	<title>All Courses — S&L IT Services</title>
 </svelte:head>
 
 <div class="catalog">

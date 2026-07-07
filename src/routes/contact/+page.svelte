@@ -18,8 +18,8 @@
 </script>
 
 <svelte:head>
-	<title>Contact Us — LearnHub</title>
-	<meta name="description" content="Get in touch with the LearnHub team. We're here to help." />
+	<title>Contact Us — S&L IT Services</title>
+	<meta name="description" content="Get in touch with the S&L IT Services team. We're here to help." />
 </svelte:head>
 
 <!-- ─── Hero ──────────────────────────────────────────────────────────────── -->
@@ -153,7 +153,7 @@
 
 <script lang="ts" context="module">
 	const contactCards = [
-		{ icon: '📧', label: 'Email us', value: 'hello@learnhub.com', href: 'mailto:hello@learnhub.com' },
+		{ icon: '📧', label: 'Email us', value: 'hello@slitservices.com', href: 'mailto:hello@slitservices.com' },
 		{ icon: '📞', label: 'Call us', value: '+1 (415) 555-0192', href: 'tel:+14155550192' },
 		{ icon: '📍', label: 'Office', value: '100 Market Street, Suite 400\nSan Francisco, CA 94105', href: null },
 		{ icon: '🕐', label: 'Working hours', value: 'Mon – Fri, 9 am – 6 pm PST', href: null }

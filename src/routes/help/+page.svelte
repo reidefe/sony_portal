@@ -73,7 +73,7 @@
 			id: 'b3',
 			category: 'billing',
 			q: 'Are there free courses available?',
-			a: 'Yes! We offer a growing selection of free courses. Browse them at learnhub.com/courses?isFree=true.'
+			a: 'Yes! We offer a growing selection of free courses. Browse them at slitservices.com/courses?isFree=true.'
 		},
 		{
 			id: 't1',
@@ -85,7 +85,7 @@
 			id: 't2',
 			category: 'technical',
 			q: 'Which browsers are supported?',
-			a: 'LearnHub works best on the latest versions of Chrome, Firefox, Safari, and Edge. We recommend keeping your browser up to date for the best experience.'
+			a: 'S&L IT Services works best on the latest versions of Chrome, Firefox, Safari, and Edge. We recommend keeping your browser up to date for the best experience.'
 		},
 		{
 			id: 'cert1',
@@ -96,7 +96,7 @@
 		{
 			id: 'cert2',
 			category: 'certificates',
-			q: 'Are LearnHub certificates recognised by employers?',
+			q: 'Are S&L IT Services certificates recognised by employers?',
 			a: 'Our certificates are recognised by many leading employers worldwide. You can add them directly to your LinkedIn profile or resume. Each certificate includes a unique verification code.'
 		}
 	];
@@ -117,7 +117,7 @@
 </script>
 
 <svelte:head>
-	<title>Help Center — LearnHub</title>
+	<title>Help Center — S&L IT Services</title>
 	<meta name="description" content="Find answers to common questions or contact our support team. We're here to help." />
 </svelte:head>
 

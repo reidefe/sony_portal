@@ -3,7 +3,9 @@
     "allow": [
       "PowerShell(npm *)",
       "Bash(npm install *)",
-      "Bash(npm run *)"
+      "Bash(npm run *)",
+      "Bash(xargs perl -pi -e \"s/learnhub\\\\.com/slitservices.com/g\")",
+      "Read(//tmp/**)"
     ]
   }
 }

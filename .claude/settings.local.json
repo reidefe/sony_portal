@@ -5,7 +5,16 @@
       "Bash(npm install *)",
       "Bash(npm run *)",
       "Bash(xargs perl -pi -e \"s/learnhub\\\\.com/slitservices.com/g\")",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(/usr/bin/curl -s -o /dev/null -w \"/: %{http_code}\\\\n\" http://localhost:5174/)",
+      "Bash(/usr/bin/curl -s -o /dev/null -w \"/services/it: %{http_code}\\\\n\" http://localhost:5174/services/it)",
+      "Bash(/usr/bin/curl -s -o /dev/null -w \"/services/networking: %{http_code}\\\\n\" http://localhost:5174/services/networking)",
+      "Bash(/usr/bin/curl -s -o /dev/null -w \"/services/health: %{http_code}\\\\n\" http://localhost:5174/services/health)",
+      "Bash(/usr/bin/curl -s -o /dev/null -w \"/services/immigration: %{http_code}\\\\n\" http://localhost:5174/services/immigration)",
+      "Bash(/usr/bin/curl -s http://localhost:5174/services/bogus)",
+      "Bash(/usr/bin/curl -s -D - -o /dev/null http://localhost:5174/services/bogus)",
+      "Bash(kill %1)",
+      "Bash(jobs)"
     ]
   }
 }
